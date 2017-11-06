@@ -35,8 +35,12 @@ h2 {
   /*text-transform: uppercase;*/
   font-weight: 500;
   font-family: 'Open Sans', sans-serif;
-  padding-top: 10px;
+  padding-top: 15px;
   font-size: 1rem; }
+
+p {
+  line-height: 1.8rem;
+}
 
 .list-social-icons a {
   color: #495057; }
