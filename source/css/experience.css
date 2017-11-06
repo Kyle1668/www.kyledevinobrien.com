@@ -13,6 +13,10 @@ body {
         padding-top: 0;
         padding-left: 17rem; } }
 
+.fademe {
+     display: none;
+ }
+
 h1,
 h2,
 h3,
@@ -122,3 +126,5 @@ a {
     color: #343a40; }
 a:hover, a:focus, a:active {
     color: #343a40; }
+
+
