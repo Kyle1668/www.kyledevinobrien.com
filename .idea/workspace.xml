@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4beb5268-e174-4c40-8c40-faef077b24e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/css/experience.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/experience.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/js/experience.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/js/resume.min.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/css/resume.css" afterPath="$PROJECT_DIR$/source/css/index.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/source/js/resume.js" afterPath="$PROJECT_DIR$/source/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/source/vendor/jquery/jquery.js" />
-    </list>
+    <list default="true" id="4beb5268-e174-4c40-8c40-faef077b24e4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -354,12 +344,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509940461995</updated>
-      <workItem from="1509940463555" duration="4271000" />
+      <workItem from="1509940463555" duration="4293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4271000" />
+    <option name="totallyTimeSpent" value="4293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
