@@ -46,6 +46,10 @@ p {
     line-height: 1.8rem;
 }
 
+sub-bullet {
+    padding-left: 30px;
+}
+
 .list-social-icons a {
     color: #495057; }
 .list-social-icons a:hover {
