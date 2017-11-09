@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4beb5268-e174-4c40-8c40-faef077b24e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/PDF/KyleResume.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/articles.html" afterPath="$PROJECT_DIR$/articles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/education.html" afterPath="$PROJECT_DIR$/education.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experience.html" afterPath="$PROJECT_DIR$/experience.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.html" afterPath="$PROJECT_DIR$/projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/articles.css" afterPath="$PROJECT_DIR$/source/css/articles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/education.css" afterPath="$PROJECT_DIR$/source/css/education.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/experience.css" afterPath="$PROJECT_DIR$/source/css/experience.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/index.css" afterPath="$PROJECT_DIR$/source/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/css/projects.css" afterPath="$PROJECT_DIR$/source/css/projects.css" />
-    </list>
+    <list default="true" id="4beb5268-e174-4c40-8c40-faef077b24e4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
