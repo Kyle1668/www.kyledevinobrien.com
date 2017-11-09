@@ -8,3 +8,4 @@ os.system("/usr/bin/open -a \"/Applications/Google Chrome.app\" \'experience.htm
 os.system("/usr/bin/open -a \"/Applications/Google Chrome.app\" \'projects.html\'")
 os.system("/usr/bin/open -a \"/Applications/Google Chrome.app\" \'articles.html\'")
 os.system("/usr/bin/open -a \"/Applications/Google Chrome.app\" \'education.html\'")
+
