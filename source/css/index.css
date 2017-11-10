@@ -7,7 +7,8 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   padding-top: 54px;
-  color: #868e96; }
+  color: rgb(67, 67, 67);
+}
 
 @media (min-width: 992px) {
   body {
