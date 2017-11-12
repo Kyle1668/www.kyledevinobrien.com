@@ -8,6 +8,7 @@ body {
     font-weight: 700;
     padding-top: 54px;
     color: rgb(67, 67, 67);
+    /*background-color: #282c34;*/
 }
 
 @media (min-width: 992px) {
